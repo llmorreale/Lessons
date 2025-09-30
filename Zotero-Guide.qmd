@@ -1,0 +1,60 @@
+---
+title: "Getting Started with Zotero"
+author: "Your Name"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    code-fold: false
+---
+
+# Introduction
+
+Zotero is a free, open-source tool for managing references and bibliographies.  
+
+![](images/zotero-logo.svg){fig-align="center" width="40%"}
+
+---
+
+# Installing Zotero
+
+1. Go to the [Zotero website](https://www.zotero.org/).
+2. Download the desktop app for your operating system.
+*Optional*
+3. Install the **Zotero Connector** for your browser.
+
+
+---
+
+# Setting Up Your Library
+
+Zotero libraries can be organized with folders (called *Collections*) and tags.  
+You can also sync your library across devices by creating a free Zotero account.
+
+<!-- ![](images/zotero-library.png){fig-align="center" width="90%"} -->
+
+---
+
+# Adding References
+
+You can add references in several ways:
+
+- **Browser Connector**: Save references directly from your web browser.  
+- **DOI/ISBN Lookup**: Paste a DOI or ISBN into Zotero.  
+- **Manual Entry**: Add details yourself.  
+
+<!-- ![](images/zotero-add-item.png){fig-align="center" width="60%"} -->
+
+---
+
+# Using Zotero with Word
+
+Zotero installs a plugin that allows you to insert citations and bibliographies into your documents.  
+
+1. Open Word or LibreOffice.  
+2. Look for the **Zotero** tab in the toolbar.  
+3. Insert citations as you write.
+
+<!-- ![](images/zotero-word-plugin.png){fig-align="center" width="80%"} -->
+
+---
